@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Octocat Pages
 
 You can use the [editor on GitHub](https://github.com/gaomengweii90/gaomengweii90.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
